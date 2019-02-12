@@ -14,7 +14,7 @@ Bedassle [(Bayesian Estimation of Differentiation in Alleles by Spatial Structur
 1. Datos ambientales de las localidades muestreadas y coordenadas geográficas
 2. Archivo con ID de los induviduos muestreados o las poblaciones
 3. Datos genéticos
-*Ejemplo de input:*
+- *Imagen 1. Ejemplo de input:*
 ![Input](https://raw.githubusercontent.com/HeribertoVaquezCardona/Imagen2/master/Bedassle_input.png)
 
 
@@ -24,7 +24,7 @@ Bedassle [(Bayesian Estimation of Differentiation in Alleles by Spatial Structur
 ##**ANGSD**
 ANGSD [(Analysis of Next Generation Sequencing Data)](https://www.ncbi.nlm.nih.gov/pubmed/25420514) es un [software](https://github.com/ANGSD/angsd) en lenguaje C++ para analizar datos GBS. Puede calcular varias estadísticas de resumen y realizar mapas de asociación y análisis genéticos poblacionales trabajando directamente en los datos de secuenciación sin procesar o utilizando las probabilidades de genotipo. Puede utilizar como input datos geneticos en los formatos <span style="color:purple">*VCF, BAM, GLF, m pileup, beagle.*</span> 
 Liga para descarga: https://github.com/ANGSD/angsd
-*Análisis realizados por ANGSD:*
+- *Imagen 2. Análisis realizados por ANGSD:*
 ![Analisis realizados por ANGSD](https://raw.githubusercontent.com/HeribertoVaquezCardona/Imagen1/master/Analysis.png)
 
 
