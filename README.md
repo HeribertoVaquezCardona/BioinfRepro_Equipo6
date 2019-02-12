@@ -5,7 +5,7 @@
 ##Este repositorio contiene el resultado del ejercicio 3 "software iteresante" del Equipo 6.
 
 ##**Integrantes del equipo:**
-Gabriela Aridai Borja Martínez
+Gabriela Aridai Borja Martínez y
 Heriberto Vázquez Cardona
 
 
@@ -23,9 +23,9 @@ Bedassle [(Bayesian Estimation of Differentiation in Alleles by Spatial Structur
 
 ##**ANGSD**
 ANGSD [(Analysis of Next Generation Sequencing Data)](https://www.ncbi.nlm.nih.gov/pubmed/25420514) es un [software](https://github.com/ANGSD/angsd) en lenguaje C++ para analizar datos GBS. Puede calcular varias estadísticas de resumen y realizar mapas de asociación y análisis genéticos poblacionales trabajando directamente en los datos de secuenciación sin procesar o utilizando las probabilidades de genotipo. Puede utilizar como input datos geneticos en los formatos <span style="color:purple">*VCF, BAM, GLF, m pileup, beagle.*</span> 
-![Analisis realizados por ANGSD]
+Liga para descarga: https://github.com/ANGSD/angsd
 
-![ANGSD](https://raw.githubusercontent.com/HeribertoVaquezCardona/Imagen1/master/Analysis.png)
+![Analisis realizados por ANGSD](https://raw.githubusercontent.com/HeribertoVaquezCardona/Imagen1/master/Analysis.png)
 
 
 
